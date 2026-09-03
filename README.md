@@ -7,3 +7,11 @@ CYBERNYTE includes an authorized local and private-network port scanner, file-in
 The program also includes a custom plug-in system that allows users to add their own trusted Python scripts without modifying the main application. Each plug-in can be assigned a keyboard shortcut and automatically added to the CYBERNYTE command menu when the program launches.
 
 CYBERNYTE was created by **@motionmanryan on telegram** to make cybersecurity a more widely discussed and approachable topic. It is intended strictly for defensive education, personal system monitoring, and authorized security testing. Users should only scan or analyze computers, networks, websites, files, and accounts that they own or have explicit permission to test.
+
+<h2 align="center">CYBERNYTE Security Command Center</h2>
+
+<p align="center">
+  <img src="cybernyte-dashboard.png"
+       alt="CYBERNYTE Security Command Center"
+       width="100%">
+</p>
