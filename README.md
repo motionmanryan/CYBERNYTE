@@ -11,7 +11,7 @@ CYBERNYTE was created by **@motionmanryan on telegram** to make cybersecurity a 
 <h2 align="center">CYBERNYTE Security Command Center</h2>
 
 <p align="center">
-  <img src="cybernyte-dashboard.png"
+  <img src="CYBERNYTE/cybernyte-dashboard.png.png"
        alt="CYBERNYTE Security Command Center"
        width="100%">
 </p>
